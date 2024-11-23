@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<db_xml>
+    <atelierb version="3_7_ubuntu-cvs" />
+    <project decomp_dir="C:\Program Files (x86)\Atelier B free 4.5.1\parking\bdp\expand_src" old_decomp_dir="C:\Program Files (x86)\Atelier B free 4.5.1\parking\bdp\src">
+        <!-- Definition directory list -->
+        <!-- Component file list -->
+        <component_file path="C:/Program Files (x86)/Atelier B free 4.5.1/parking" name="pakinglocation" suffix="mch" user="chamsa">
+            <component name="pakinglocation" type="specification" />
+        </component_file>
+    </project>
+</db_xml>
